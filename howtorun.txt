@@ -1,0 +1,19 @@
+install nodejs if not installed by going to following url:
+https://nodejs.org/en/download
+
+install dependencies for backend: run below command
+cd backend (this takes to backend folder)
+npm install
+
+install dependencies for frontend: run below command
+cd frontend (this takes to frontend folder)
+npm install
+
+start the backend server: run below command
+cd backend (this takes to backend folder)
+npm start
+
+start the frontend server: run below command
+cd frontend (this takes to frontend folder)
+npm start
+ 
